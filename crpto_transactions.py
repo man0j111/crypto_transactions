@@ -7,8 +7,8 @@ url = "https://api.kucoin.com/api/v1/market/histories"
 symbols = ["SUI-USDT"]
 
 headers = {
-    "KC-API-KEY": "6452a33896f60400014dfe1a",
-    "KC-API-SECRET": "Deeban@155Deeban"
+    "KC-API-KEY": "API_KEY",
+    "KC-API-SECRET": "API_SECRET"
 }
 
 
